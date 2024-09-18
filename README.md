@@ -46,9 +46,6 @@ I'm a passionate **web developer** from Colombia, focused on crafting responsive
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" style="margin-right: 10px;"/>
-  </a>
 </p>
 
 ---
