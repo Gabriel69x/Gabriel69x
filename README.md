@@ -68,6 +68,10 @@ I'm a passionate **web developer** from Colombia, focused on crafting responsive
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+<a href="https://netbeans.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="NetBeans" width="40" height="40" style="margin-right: 10px;"/>
+</a>
+
 </p>
 
 ---
