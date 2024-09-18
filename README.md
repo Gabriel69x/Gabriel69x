@@ -101,7 +101,7 @@ I'm a passionate **web developer** from Colombia, focused on crafting responsive
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/gabriel-cortes-06b06832a" target="_blank">
+   <a href="https://www.linkedin.com/in/gabriel-cortes-06b06832a" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="mailto:gabrielcortes69x@gmail.com" target="_blank">
